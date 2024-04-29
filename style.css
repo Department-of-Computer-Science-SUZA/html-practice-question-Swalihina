@@ -1,0 +1,27 @@
+.px-2{
+    padding: 2rem 4rem;
+}
+
+.pe-1{
+    padding-right: 1rem;
+}
+
+.ps-3{
+    padding-left: 3rem;
+}
+
+.bg-dark{
+    background-color: black;
+}
+
+.text-white{
+    color: #fff;
+}
+
+.bg-purple{
+    background-color: purple;
+}
+
+.text-primary{
+    color:rgb(11, 11, 151);
+}
